@@ -6,11 +6,16 @@ Couscouuuuuuuuuuuss
 theo va bien ? ;)
 
 ça va niquel !
-Aha lequel ? 
+Aha lequel ?
 
 eheh ;)
 les deux hihihi
 
+<<<<<<< HEAD
 
 
 Hate de savoir krkrkrkrkrkrkrkr
+=======
+ah bah un va mieux que l'autre je pense ..
+et toi petit ph va bien ?
+>>>>>>> de01c4702a4ebdd2e7f4ccb7eec1f478aa931e0c
